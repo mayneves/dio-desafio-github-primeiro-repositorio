@@ -1,0 +1,5 @@
+Comandos
+Git init: criação de repositório na pasta local.
+Git add .
+Git commit -m "mensagem"
+Git push origin main
